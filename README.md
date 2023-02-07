@@ -4,10 +4,10 @@
 
       
 
-- 👀  I’m interested in Machine Learning & Data Science, as well as Blockchain.
-- 🌱  I’m currently learning Garvard CS50 & Java OverOne.
-- 💞️  I want to collaborate on Android app development.
-- 📫  How to reach me: ssobo77@gmail.com
+- 👀  I’m interested in data science and artificial intelligence 
+- 🌱  
+- 💞️  Linkedin linkedin.com/in/siergej-sobolewski-25a16319a
+- 📫  How to reach me: s.sobolewski@hotmail.com
 
 <!---
 SSobol77/SSobol77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
