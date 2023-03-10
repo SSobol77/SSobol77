@@ -48,9 +48,9 @@
 <img  height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SSobol77"/> 
 </span>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSobol77&show_icons=true&theme=transparent)
+[![SSobol77 GitHub stats](https://github-readme-stats.vercel.app/api?username=SSobol77&show_icons=true&theme=transparent)](https://wakatime.com/@SSobol77)
 
-[![SSobol77 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SSobol77)](https://wakatime.com/@SSobol77)
+
 
 <!---
 SSobol77/SSobol77 is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
