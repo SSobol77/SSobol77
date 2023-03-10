@@ -31,9 +31,9 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=linux,java,python,solidity,cpp,spring,django,flask,selenium,bootstrap,mysql,postgres)
-
-
+![My Skills](https://skillicons.dev/icons?i=linux)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
 
 ## Some stats
 
