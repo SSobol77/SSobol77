@@ -44,11 +44,6 @@
 
 ### Some stats
 
-<span>
-<img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SSobol77"/> 
-</span>
-
-[![SSobol77 GitHub stats](https://github-readme-stats.vercel.app/api?username=SSobol77&show_icons=true&theme=transparent)](https://wakatime.com/@SSobol77)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent"  align = "center"/>
