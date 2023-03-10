@@ -25,6 +25,8 @@
 - 🌱 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
 
 
+# Contact
+      
 - 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
 - 📫  How to reach me: s.sobolewski@hotmail.com
 
