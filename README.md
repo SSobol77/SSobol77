@@ -25,7 +25,7 @@
 - 🌱 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
 
 
-# Contact
+### Contact
       
 - 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
 - 📫  How to reach me: s.sobolewski@hotmail.com
@@ -40,7 +40,7 @@
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
 
 
-## Some stats
+### Some stats
 
 <span>
 <img  height="100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SSobol77"/> 
