@@ -8,7 +8,7 @@
 
 -  👋  I like doing it, it's nice to see the implementation of 
        my work,  I always  strive  for new  knowledge  and new 
-       implementations.I believe, people working in Data Science
+       implementations. I believe, people working in Data Science
        have carved out a unique and distinct field for the work
        they do.
 
@@ -22,7 +22,7 @@
       That еhe art of uncovering the insights and trends in 
       data has been around since ancient times. 
 
-- 🌱 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
+- 🌱 🌱 🌱 🌱 This field is Data Science  🌱 🌱 🌱 🌱 🌱  
 
 
 ### ✨  My Skills
@@ -46,7 +46,7 @@
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent"  align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent"  align = "center"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SSobol77&show_icons=true&theme=transparent" align = "center"/>
 </p>
 
