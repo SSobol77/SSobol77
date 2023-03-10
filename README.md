@@ -31,9 +31,9 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=linux,androidstudio,git,kubernetes,docker)
+![My Skills](https://skillicons.dev/icons?i=bsd,linux,androidstudio,gradle,git,kubernetes,docker)
 
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,dotnet)
 
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
 
