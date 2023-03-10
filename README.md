@@ -28,6 +28,15 @@
 - 💞️  Linkedin linkedin.com/in/siergej-sobolewski-25a16319a
 - 📫  How to reach me: s.sobolewski@hotmail.com
 
+![My Skills](https://skillicons.dev/icons?i=java,typescript,nodejs,react,jest,nextjs)
+
+## Some stats
+
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesSBL&show_icons=true&locale=en&layout=compact&theme=transparent" alt="CharlesSBL" /> 
+</span>
+
+
 <!---
 SSobol77/SSobol77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
