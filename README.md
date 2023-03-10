@@ -28,6 +28,10 @@
 - 💞️  Linkedin linkedin.com/in/siergej-sobolewski-25a16319a
 - 📫  How to reach me: s.sobolewski@hotmail.com
 
+## My Skills
+
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,spring,django,mysql)
+
 
 
 ## Some stats
@@ -36,7 +40,7 @@
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssobol77&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ssobol77" /> 
 </span>
 
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,spring,django,mysql)
+
 
 
 <!---
