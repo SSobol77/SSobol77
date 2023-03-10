@@ -28,7 +28,7 @@
 - 💞️  Linkedin linkedin.com/in/siergej-sobolewski-25a16319a
 - 📫  How to reach me: s.sobolewski@hotmail.com
 
-![My Skills](https://skillicons.dev/icons?i=java,typescript,nodejs,django,jest,nextjs)
+![My Skills](https://skillicons.dev/icons?i=java,python,spring,django,jest,nextjs)
 
 ## Some stats
 
