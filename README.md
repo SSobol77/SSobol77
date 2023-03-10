@@ -1,4 +1,5 @@
 -![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
+<img alt="Hello I'm Karol" align="center" src="https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg?font=Fira+Code&size=19&pause=1000&color=27f0c0&center=false&vCenter=true&width=435&lines=Hello+I'm+Charles">
 
 -  👋  Hi, I’m Siergej Sobolewski  -  @SSobol77
        I like doing it, it's nice to see the implementation of 
