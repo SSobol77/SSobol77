@@ -35,6 +35,7 @@
 <span>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent" alt="SSOBOL77" /> 
 </span>
+
 ![My Skills](https://skillicons.dev/icons?i=java,python,cpp,spring,django,mysql)
 
 
