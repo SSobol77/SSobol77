@@ -25,19 +25,21 @@
 - 🌱 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
 
 
-### Contact
-      
-- 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
-- 📫  How to reach me: s.sobolewski@hotmail.com
-
-
-## My Skills
+### My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=bsd,linux,androidstudio,gradle,git,kubernetes,docker)
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,dotnet)
 
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
+
+
+## Contact:
+      
+- 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
+
+- 📫  How to reach me: s.sobolewski@hotmail.com
+
 
 
 ### Some stats
