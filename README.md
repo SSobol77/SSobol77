@@ -2,12 +2,11 @@
    ![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
 
 
+## Hi, I’m Siergej Sobolewski
 
 
 
-
--  👋  Hi, I’m Siergej Sobolewski  -  @SSobol77
-       I like doing it, it's nice to see the implementation of 
+-  👋  I like doing it, it's nice to see the implementation of 
        my work,  I always  strive  for new  knowledge  and new 
        implementations.I believe, people working in Data Science
        have carved out a unique and distinct field for the work
