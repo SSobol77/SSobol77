@@ -25,7 +25,7 @@
 - 🌱 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
 
 
-### My Skills
+### ✨  My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=bsd,linux,androidstudio,gradle,git,kubernetes,docker)
 
@@ -34,7 +34,7 @@
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
 
 
-## Contact:
+## ✨ Contact
       
 - 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
 
@@ -49,9 +49,9 @@
 </span>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <!---
-SSobol77/SSobol77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SSobol77/SSobol77 is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
