@@ -31,7 +31,7 @@
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,spring,django,mysql,postgres,oracle)
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,spring,django,mysql,postgres)
 
 
 
