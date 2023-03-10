@@ -2,11 +2,9 @@
 
 ![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
 
-![test](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
 
-{:refdef: style="width: 10px; height: 10px"}
-[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](./somelink)
-{: refdef}
+
+
 
 
 
