@@ -22,7 +22,7 @@
       That еhe art of uncovering the insights and trends in 
       data has been around since ancient times. 
 
-- 🌱 This field is Data Science. 
+- 🌱 This field is Data Science 🌱 🌱 🌱 🌱 🌱 🌱 🌱  
 
 
 - 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
