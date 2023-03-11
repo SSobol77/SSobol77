@@ -31,7 +31,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,dotnet)
 
-![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,sqlite,mysql,postgres)
+![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,scrapy,bootstrap,sqlite,mysql,postgres)
 
 
 ## ✨ Contact
