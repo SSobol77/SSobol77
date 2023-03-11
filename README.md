@@ -29,7 +29,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bsd,linux,win,androidstudio,gradle,git,kubernetes,docker)
 
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,win,dotnet,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,win,dotnet,visualstudio,mssql)
 
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,scrapy,sqlite,mysql,postgres)
 
