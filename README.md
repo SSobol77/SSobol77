@@ -44,12 +44,7 @@
 
 ### Some stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent"  align = "center"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SSobol77&show_icons=true&theme=transparent" align = "center"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssobol77&hide_progress=true)](https://github.com/ssobol77/github-readme-stats)
 
 
 
