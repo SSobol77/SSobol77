@@ -27,11 +27,11 @@
 
 ### ✨  My Skills
 
-![My Skills](https://skillicons.dev/icons?i=bsd,linux,androidstudio,gradle,git,kubernetes,docker)
+![My Skills](https://skillicons.dev/icons?i=bsd,linux,windows,androidstudio,gradle,git,kubernetes,docker)
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,dotnet)
 
-![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,scrapy,bootstrap,sqlite,mysql,postgres)
+![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,scrapy,sqlite,mysql,postgres)
 
 
 ## ✨ Contact
