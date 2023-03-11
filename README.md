@@ -2,7 +2,7 @@
    ![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
 
 
-## Hi, I’m Siergej Sobolewski
+## Hello, I’m Siergej Sobolewski. 
 
 
 
@@ -27,7 +27,7 @@
 
 ### ✨  My Skills
 
-![My Skills](https://skillicons.dev/icons?i=bsd,linux,mac,androidstudio,gradle,git,docker,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=bsd,linux,macos,androidstudio,gradle,git,docker,kubernetes)
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,visualstudio,dotnet)
 
