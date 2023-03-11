@@ -27,7 +27,7 @@
 
 ### ✨  My Skills
 
-![My Skills](https://skillicons.dev/icons?i=bsd,linux,windows,androidstudio,gradle,git,kubernetes,docker)
+![My Skills](https://skillicons.dev/icons?i=bsd,linux,win,androidstudio,gradle,git,kubernetes,docker)
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,dotnet)
 
