@@ -44,6 +44,7 @@
 
 ### Some stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSobol77&layout=compact)](https://github.com/ssobol77/github-readme-stats)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSobol77&show_icons=true&locale=en&layout=compact&theme=transparent"  align = "center"/> 
