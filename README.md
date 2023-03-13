@@ -42,9 +42,7 @@
 
 
 
-### Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssobol77&hide_progress=true)](https://github.com/ssobol77/github-readme-stats)
 
 
 
