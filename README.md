@@ -33,7 +33,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bsd,linux,win,androidstudio,gradle,git,docker,kubernetes,aws)
 
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,golang,visualstudio,dotnet)
+![My Skills](https://skillicons.dev/icons?i=java,python,golang,c,cpp,visualstudio,dotnet)
 
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,_win,sqlite,mysql,postgres)
 
