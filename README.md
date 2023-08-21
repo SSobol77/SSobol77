@@ -29,38 +29,35 @@
 ---
 
 &nbsp;
-### **My Mobile games (Java) :**
+### ✨ **My Mobile games (Java) :**
 
+| Aliens Attack                                                                   |  B-52                                                                             |
+|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| ![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg)  | ![B52](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.jpg)  |
+| ![AA1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif) | ![B521](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.gif) |
 
-##### Aliens Attack
-![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg)
-![AA1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif)
-
-##### B-52
-![B52](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.jpg)
-![B521](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.gif)
-
-##### Balls
-![Baalls](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.jpg)
-![Balls1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.gif)
-
-#### F16
-![f16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg)
-![f161](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.gif)
-
-#### Ghosts Dungeons
-![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg)
-![Ghosts1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.gif)
-
-#### Armored Punch
-![ap](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/armored.jpg)
-![ap1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/tank.gif)
-
-#### Vegas games
-![vg](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg)
-![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)
 
 &nbsp;
+
+| Balls                                                                                 |   Armored Punch                                                                   |
+|:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| ![Baalls](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.jpg) |![ap](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/armored.jpg)|
+| ![Balls1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.gif) | ![ap1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/tank.gif) |
+
+
+&nbsp;
+
+| Ghosts Dungeons                                                                         |        F16                                                                        |
+|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg)  | ![f16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg)  |
+| ![Ghosts1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.gif) | ![f161](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.gif) |
+
+
+
+#### Vegas games pack:
+
+![vg](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg)
+![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)
 
 &nbsp;
 
