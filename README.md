@@ -26,6 +26,7 @@
 
 - 🌱 🌱 🌱 🌱 This field is Data Science  🌱 🌱 🌱 🌱 🌱  
 
+![mobile](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif)
 
 
 
