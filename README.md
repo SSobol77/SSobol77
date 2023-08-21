@@ -26,8 +26,10 @@
 
 - 🌱 🌱 🌱 🌱 This field is Data Science  🌱 🌱 🌱 🌱 🌱  
 
+### My Mobile games :
+##### Aliens Attack
 ![mobile](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif)
-
+![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg)
 
 
 ### ✨  My Skills
