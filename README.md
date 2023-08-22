@@ -52,12 +52,14 @@
 | &nbsp;&nbsp; ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg) &nbsp;&nbsp; | &nbsp;&nbsp; ![f16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg) &nbsp;&nbsp; |
 | &nbsp;&nbsp; ![Ghosts1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.gif) &nbsp;&nbsp; | &nbsp;&nbsp; ![f161](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.gif) &nbsp;&nbsp; |
 
+&nbsp;
+
+| *Vegas games*                                                                 |  *SnellBall*                                                                           |
+|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+|&nbsp;&nbsp;![vg](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg) &nbsp;&nbsp;  |&nbsp;&nbsp; ![vg](https://github.com/SSobol77/SnellBall/blob/main/logo.png) &nbsp;&nbsp; |
+|&nbsp;&nbsp; ![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)&nbsp;&nbsp; |&nbsp;&nbsp; ![vg](https://github.com/SSobol77/SnellBall/blob/main/snellball.gif) &nbsp;&nbsp; |
 
 
-#### *Vegas games pack:*
-
-![vg](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg)
-![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)
 
 &nbsp;
 
