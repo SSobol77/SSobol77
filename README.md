@@ -72,7 +72,8 @@
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,win,mongo,sqlite,mysql,postgres)
 
 &nbsp;
-
+![Codewars](https://www.codewars.com/users/Siergej/badges/small)
+&nbsp;
 ## ✨ Contact
       
 - 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
