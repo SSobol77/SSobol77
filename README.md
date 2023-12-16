@@ -2,7 +2,7 @@
    ![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
 ![NewRHDLogo_RHD_reverse](https://user-images.githubusercontent.com/108773983/226222769-a75c5022-9947-4fa1-99bd-8fd7e7f69feb.svg)
 
-
+/home/ssobo/Downloads/red-badge.47ac3e7d.svg
 
 ## Hello, I’m Siergej Sobolewski. 
 
