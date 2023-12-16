@@ -1,8 +1,9 @@
-![red-badge 47ac3e7d](https://github.com/SSobol77/SSobol77/assets/108773983/1af0ede1-4ff0-4a72-9695-1c88df7a8c0a)![red-badge 47ac3e7d](https://github.com/SSobol77/SSobol77/assets/108773983/9fe9ffab-9f09-43ba-b661-f42e37b1cf43)![test](https://github.githubassets.com/images/icons/emoji/octocat.png)  . . . .
+
+![test](https://github.githubassets.com/images/icons/emoji/octocat.png)  . . . .
    ![artificial-intelligence-g70afd8891_640](https://user-images.githubusercontent.com/108773983/200955851-6396a7bd-265b-48e6-89b7-ce93b0164b4c.jpg)
-![NewRHDLogo_RHD_reverse](https://user-images.githubusercontent.com/108773983/226222769-a75c5022-9947-4fa1-99bd-8fd7e7f69feb.svg)
 
 
+![red-badge 47ac3e7d](https://github.com/SSobol77/SSobol77/assets/108773983/1af0ede1-4ff0-4a72-9695-1c88df7a8c0a)![NewRHDLogo_RHD_reverse](https://user-images.githubusercontent.com/108773983/226222769-a75c5022-9947-4fa1-99bd-8fd7e7f69feb.svg)
 
 ## Hello, I’m Siergej Sobolewski. 
 
