@@ -64,7 +64,6 @@
 
 &nbsp;
 ![Codewars](https://www.codewars.com/users/Siergej/badges/small)
-![Codewars](https://www.codewars.com/users/Siergej/badges/small)
 &nbsp;
 ## ✨ Contact
       
