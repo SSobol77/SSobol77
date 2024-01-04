@@ -5,26 +5,17 @@
 ![NewRHDLogo_RHD_reverse](https://user-images.githubusercontent.com/108773983/226222769-a75c5022-9947-4fa1-99bd-8fd7e7f69feb.svg)
 
 
-## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello, I’m Siergej Sobolewski.
+## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello everybody,
+
+## I'm Siergej Sobolewski. Welcome to my GitHub profile!
 
 
--  👋  I like doing it, it's nice to see the implementation of 
-       my work,  I always  strive  for new  knowledge  and new 
-       implementations. I believe, people working in Data Science
-       have carved out a unique and distinct field for the work
-       they do.
+> In an era where digital transformation is not just a trend but a necessity, Computer Science (CS) stands at the forefront of innovation and progress. As we look ahead, the field promises a dynamic and exhilarating future, filled with opportunities, especially for young individuals embarking on their journey in CS.
+> The future of Computer Science is a canvas of endless possibilities, and for those just beginning their journey, it's a world waiting to be explored and shaped. With passion, perseverance, and a spirit of innovation, there's no limit to what can be achieved. Embrace the challenges, stay curious, and never stop learning. The future of CS is not just about what technology can do; it's about what you can do with technology.
 
       
 
-- 👀  I believe, people working in data science have carved 
-      out a unique and distinct field  for the work  they do.  
-      The ancient  Egyptians used  census  data to  increase 
-      efficiency  in  tax  collection and  they  accurately 
-      predicted the flooding of the  Nile river  every year. 
-      That еhe art of uncovering the insights and trends in 
-      data has been around since ancient times. 
 
-- 🌱 🌱 🌱 🌱 🌱 🌱 🌱 This field is Data Science & Artificial Intelligence 🌱 🌱 🌱 🌱 🌱 🌱 🌱 
 
 ---
 &nbsp;
