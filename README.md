@@ -10,7 +10,7 @@
 ## I'm Siergej Sobolewski. Welcome to my GitHub profile!
 
 
-> In an era where digital transformation is not just a trend but a necessity, Computer Science (CS) stands at the forefront of innovation and progress. As we look ahead, the field promises a dynamic and exhilarating future, filled with opportunities, especially for young individuals embarking on their journey in CS.
+> In an era where digital transformation is not just a trend but a necessity, Computer Science stands at the forefront of innovation and progress. As we look ahead, the field promises a dynamic and exhilarating future, filled with opportunities, especially for young individuals embarking on their journey in CS.
 > The future of Computer Science is a canvas of endless possibilities, and for those just beginning their journey, it's a world waiting to be explored and shaped. With passion, perseverance, and a spirit of innovation, there's no limit to what can be achieved. Embrace the challenges, stay curious, and never stop learning. The future of CS is not just about what technology can do; it's about what you can do with technology.
 
       
