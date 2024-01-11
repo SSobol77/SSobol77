@@ -63,7 +63,8 @@
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,win,mongo,sqlite,mysql,postgres)
 
 &nbsp;
-![Codewars](https://www.codewars.com/users/Siergej/badges/small)
+![Codewars](https://github.r2v.ch/codewars?user=Siergej&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 &nbsp;
 ## ✨ Contact
       
