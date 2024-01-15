@@ -58,7 +58,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bsd,linux,win,androidstudio,gradle,x,keras,docker,kubernetes,aws)
 
-![My Skills](https://skillicons.dev/icons?i=java,python,r,markdown,golang,fortran,c,cpp,visualstudio,dotnet)
+![My Skills](https://skillicons.dev/icons?i=java,python,r,markdown,golang,lua,fortran,rust,c,cpp)
 
 ![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,win,mongo,sqlite,mysql,postgres)
 
