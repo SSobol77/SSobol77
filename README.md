@@ -1,10 +1,6 @@
 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
 
-
-![NewRHDLogo_RHD_reverse](https://user-images.githubusercontent.com/108773983/226222769-a75c5022-9947-4fa1-99bd-8fd7e7f69feb.svg)
-
-
 ## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello everybody,
 
 ## I'm Siergej Sobolewski. Welcome to my GitHub profile!
