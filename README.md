@@ -3,7 +3,7 @@
 
 ## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello everybody,
 
-## I'm Siergej Sobolewski. Welcome to my GitHub profile!
+## I'm Siergej Sobolewski "Freeman". Welcome to my GitHub profile!
 
 
 > In an era where digital transformation is not just a trend but a necessity, Computer Science stands at the forefront of innovation and progress. As we look ahead, the field promises a dynamic and exhilarating future, filled with opportunities, especially for young individuals embarking on their journey in CS.
