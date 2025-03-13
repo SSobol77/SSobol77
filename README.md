@@ -1,7 +1,7 @@
 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
 
-## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hello everybody,
+## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hail, Fremen!
 
 ## I'm Siergej Sobolewski "Freeman". Welcome to my GitHub profile!
 
