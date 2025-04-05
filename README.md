@@ -14,10 +14,18 @@ Free technologies are not only about code. They are about equality, where everyo
 
 Anyone can be part of this movement, building a future rooted in freedom, openness, and collaboration. No matter where you are or what skills you have, the key is to keep learning and always be open to new possibilities.
 
+<br>
 
-      
+> [!IMPORTANT]
+> **🚫 Ethical Restrictions**
+> 
+> My works cannot be used in:
+> 
+> - Military applications or systems  
+> - Surveillance technologies  
+> - Any activity violating human rights  
 
-
+<br>
 
 ---
 &nbsp;
