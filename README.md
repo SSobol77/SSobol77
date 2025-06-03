@@ -16,15 +16,6 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 
 <br>
 
-> [!IMPORTANT]
-> **🚫 Ethical Restrictions**
-> 
-> My works cannot be used in:
-> 
-> - Military applications or systems  
-> - Surveillance technologies  
-> - Any activity violating human rights  
-
 <br>
 
 ---
