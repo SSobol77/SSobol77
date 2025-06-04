@@ -1,9 +1,11 @@
 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
 
-## ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hail, Fremen! Hello Freemen!
+# ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hail, Fremen! Hello Freemen!
 
-## I'm Siergej Sobolewski "Freeman". Welcome to my GitHub profile!
+<br>
+
+### I'm Siergej Sobolewski "Freeman". Welcome to my GitHub profile!
 
 
 Computer science plays a key role in shaping the present and future of human society, and new opportunities are opening a new era for humanity. What this era will look like depends on us...
