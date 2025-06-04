@@ -18,12 +18,9 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 
 <br>
 
----
+## ✨ **My Mobile games (Java) :**
 
 <br>
-
-### ✨ **My Mobile games (Java) :**
-
 
 | *Aliens Attack*                                                                 |  *B-52*                                                                           |
 |:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
@@ -57,7 +54,7 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 
 <br>
 
-## ✨  My Skills
+## 🧠 Algorithmic Practice
 
 ![Codewars](https://github.r2v.ch/codewars?user=Siergej&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
