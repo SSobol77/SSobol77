@@ -19,7 +19,9 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 <br>
 
 ---
-&nbsp;
+
+<br>
+
 ### ✨ **My Mobile games (Java) :**
 
 
@@ -53,33 +55,23 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 
 
 
-&nbsp;
+<br>
 
-### ✨  My Skills
+## ✨  My Skills
 
-![My Skills](https://skillicons.dev/icons?i=bsd,linux,win,androidstudio,gradle,x,keras,docker,kubernetes,aws)
-
-![My Skills](https://skillicons.dev/icons?i=java,python,r,markdown,golang,lua,fortran,rust,c,cpp)
-
-![My Skills](https://skillicons.dev/icons?i=spring,django,flask,selenium,bootstrap,win,mongo,sqlite,mysql,postgres)
-
-&nbsp;
 ![Codewars](https://github.r2v.ch/codewars?user=Siergej&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
-&nbsp;
-## ✨ Contact
-      
-- 💞️  Linkedin: linkedin.com/in/siergej-sobolewski-25a16319a
+<br>
 
-- 📫  How to reach me: s.sobolewski@hotmail.com
+## 📬 Contact
+
+**Sergey Sobolewski**
+
+[![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)
+[![Website](https://img.shields.io/badge/Website-Cartesian_School-orange?logo=internet-explorer)](https://cartesianschool.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siergej--sobolewski--25a16319a-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
+[![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
 
 
-
-
-
-
-
-<!---
-SSobol77/SSobol77 is a special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
