@@ -68,9 +68,13 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 **Sergey Sobolewski**
 
 [![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)
+
 [![Website](https://img.shields.io/badge/Website-Cartesian_School-orange?logo=internet-explorer)](https://cartesianschool.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siergej--sobolewski--25a16319a-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
+
 [![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
 
 
