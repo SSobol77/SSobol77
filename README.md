@@ -1,26 +1,42 @@
 
+# ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Siergej Sobolewski 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
+![40](https://badges.pufler.dev/years/SSobol77?color=blue&style=flat)
 
-# ![test](https://github.githubassets.com/images/icons/emoji/octocat.png) Hail, Fremen! Hello Freemen!
+**Senior AI/Embedded Systems Engineer**  
+*Bridging UNIX-era expertise with modern AI since the 1990s*
 
-<br>
+---
 
-### I'm Siergej Sobolewski "Freeman". Welcome to my GitHub profile!
-
-
-Computer science plays a key role in shaping the present and future of human society, and new opportunities are opening a new era for humanity. What this era will look like depends on us...
-
-For me, the philosophy of Open Source is about freedom and collaboration. It’s not just about technology, but about giving everyone a chance to be part of something bigger than themselves. Open Source projects like Debian and FreeBSD allow people to learn, develop, and share their work with others. Together, we create solutions that make the world more just and accessible.
-
-Free technologies are not only about code. They are about equality, where everyone has the opportunity to contribute, and no one holds a monopoly on knowledge and tools. The future of technology is in our hands, shaped by our willingness to share and improve the world around us. **What it will become is up to us.**
-
-Anyone can be part of this movement, building a future rooted in freedom, openness, and collaboration. No matter where you are or what skills you have, the key is to keep learning and always be open to new possibilities.
+### Welcome to my GitHub profile!
 
 <br>
 
+### 🚀 Core Expertise
+
+| **AI/ML Engineering**          | **Systems Development**         | **DevOps/MLOps**               |
+|--------------------------------|---------------------------------|--------------------------------|
+| • IBM WatsonX integration      | • C/C++/Rust (avionics)        | • Kubernetes/Terraform        |
+| • Classical ML pipelines       | • Java/Python (distributed)    | • CI/CD (GitLab/Jenkins)      |
+| • Edge AI deployment          | • Real-time signal processing  | • Monitoring (Prometheus)     |
+
+---
+
 <br>
 
-## ✨ **My Mobile games (Java) :**
+### 🛠️ Domain Knowledge
+
+
++ Electronic Warfare (EW/REB)       + Radar Systems
++ Flight Control (DO-178C)          + FPGA/DSP co-design
++ Legacy System Modernization       + Embedded Linux
+
+ ---
+ 
+<br>
+
+## 🕹️ Retro Mobile Games (Java ME, 2000s)
+Early-career projects for Nokia/Siemens feature phones
 
 <br>
 
@@ -30,7 +46,7 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 |&nbsp;&nbsp; ![AA1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif) &nbsp;&nbsp; |&nbsp;&nbsp; ![B521](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.gif) &nbsp;&nbsp; |
 
 
-&nbsp;
+<br>
 
 | *Balls*                                                                                                         |   *Armored Punch*                                                                   |
 |:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
@@ -38,14 +54,14 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 | &nbsp;&nbsp; ![Balls1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.gif) &nbsp;&nbsp; | &nbsp;&nbsp; ![ap1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/tank.gif) &nbsp;&nbsp; |
 
 
-&nbsp;
+<br>
 
 | *Ghosts Dungeons*                                                                         |        *F16*                                                                       |
 |:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
 | &nbsp;&nbsp; ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg) &nbsp;&nbsp; | &nbsp;&nbsp; ![f16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg) &nbsp;&nbsp; |
 | &nbsp;&nbsp; ![Ghosts1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.gif) &nbsp;&nbsp; | &nbsp;&nbsp; ![f161](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.gif) &nbsp;&nbsp; |
 
-&nbsp;
+<br>
 
 | *Vegas games*                                                                 |  *SnellBall*                                                                           |
 |:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
@@ -53,16 +69,13 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 |&nbsp;&nbsp; ![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)&nbsp;&nbsp; |&nbsp;&nbsp; ![vg](https://github.com/SSobol77/SnellBall/blob/main/snellball.gif) &nbsp;&nbsp; |
 
 
+<br>
+
+---
 
 <br>
 
-## 🧠 Algorithmic Practice
-
-![Codewars](https://github.r2v.ch/codewars?user=Siergej&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-<br>
-
-## 📬 Contact
+### 📬 Contact
 
 **Sergey Sobolewski**
 
@@ -76,5 +89,28 @@ Anyone can be part of this movement, building a future rooted in freedom, openne
 
 [![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
 
+<br>
+
+### Open for:
+
+• AI/ML research collaborations
+
+• Legacy system modernization
+
+• Avionics/radar tech discussions
+
+"Still debugging the world's complexity – now with neural networks instead of oscilloscopes."
+
+<br>
+
+---
+
+<br>
+
+### 🔥 Featured Projects
+
+https://github-readme-stats.vercel.app/api/pin/?username=SSobol77&repo=aeronerve-cc
+
+https://github-readme-stats.vercel.app/api/pin/?username=SSobol77&repo=radar-signal-processing
 
 <br>
