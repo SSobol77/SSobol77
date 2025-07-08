@@ -94,7 +94,7 @@ Early-career projects for Nokia/Siemens feature phones
 
 ### 🔥 Featured Projects
 
-https://github-readme-stats.vercel.app/api/pin/?username=SSobol77&repo=aeronerve-cc
+https://gitlab.com/ssobo77/aeronerve-cc/-/wikis/Aeronerve-
 
 https://github-readme-stats.vercel.app/api/pin/?username=SSobol77&repo=radar-signal-processing
 
