@@ -78,6 +78,8 @@ Early-career projects for Nokia/Siemens feature phones
 
 ### 📂 Open for:
 
+<br>
+
 • AI/ML research collaborations
 
 • Legacy system modernization
@@ -94,12 +96,12 @@ Early-career projects for Nokia/Siemens feature phones
 
 ### 🔥 Featured Projects
 
-![aeronervecc01](https://github.com/user-attachments/assets/bc448d35-4ea3-433c-bf8d-6f2aba2b0717)
-[AeroNerve Command Core](https://gitlab.com/ssobo77/aeronerve-cc/-/wikis/Aeronerve-)
+<br>
 
-![moops_m](https://github.com/user-attachments/assets/0975764e-0bc4-43ea-abc3-4069c0be82d3)
-[Moops for DevOps](https://gitlab.com/ssobo77/moops/)
+![aeronervecc01](https://github.com/user-attachments/assets/bc448d35-4ea3-433c-bf8d-6f2aba2b0717)  &nbsp; [AeroNerve Command Core](https://gitlab.com/ssobo77/aeronerve-cc/-/wikis/Aeronerve-) &nbsp; &nbsp; &nbsp; ![moops_m](https://github.com/user-attachments/assets/0975764e-0bc4-43ea-abc3-4069c0be82d3)  &nbsp; [Moops for DevOps](https://gitlab.com/ssobo77/moops/) 
 
+<br>
 
+---
 
 <br>
