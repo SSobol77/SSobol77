@@ -68,7 +68,11 @@ Early-career projects for Nokia/Siemens feature phones
 
 [![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)
 
-[![Website](https://img.shields.io/badge/Website-Cartesian_School-orange?logo=internet-explorer)](https://cartesianschool.com)
+[![Website](https://img.shields.io/badge/Website-Cartesian_School-green?logo=internet-explorer)](https://cartesianschool.com)
+
+[![Website](https://img.shields.io/badge/Website-AeroNerve-blue?logo=internet-explorer)](https://aeronerve.co)
+
+[![Website](https://img.shields.io/badge/Website-Ecli-purple?logo=internet-explorer)](https://ecli.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siergej--sobolewski--25a16319a-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
 
