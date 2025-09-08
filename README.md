@@ -1,7 +1,7 @@
 
 # ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Siergej Sobolewski 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
-![40](https://badges.pufler.dev/years/SSobol77?color=blue&style=flat)
+
 
 **Senior AI/Embedded Systems Engineer**  
 *Bridging UNIX-era expertise with modern AI since the 1990s*
