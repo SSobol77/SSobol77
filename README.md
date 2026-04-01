@@ -1,111 +1,155 @@
+# Siergej Sobolewski
 
-# ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Siergej Sobolewski 
 ![Codewars](https://www.codewars.com/users/Siergej/badges/large)
 
-
-**Senior AI/Embedded Systems Engineer**  
-*Bridging UNIX-era expertise with modern AI since the 1990s*
-
----
-
-### Welcome to my GitHub profile!
-
-<br>
-
-### 🚀 Core Expertise
-
-| **AI/ML Engineering**          | **Systems Development**         | **DevOps/MLOps**               |
-|--------------------------------|---------------------------------|--------------------------------|
-| • IBM WatsonX integration      | • C/C++/Rust (avionics)        | • Kubernetes/Terraform        |
-| • Classical ML pipelines       | • Java/Python (distributed)    | • CI/CD (GitLab/Jenkins)      |
-| • Edge AI deployment          | • Real-time signal processing  | • Monitoring (Prometheus)     |
+**Senior Systems Engineer · AI · Embedded · High-Assurance Architecture**  
+*Designing and building production-grade platforms across operating systems, AI frameworks, embedded systems, and mission-critical software.*
 
 ---
 
-<br>
+## About me
 
-### 🛠️ Domain Knowledge
+I build complex software systems across:
 
+- **operating systems**
+- **AI platforms and enterprise frameworks**
+- **embedded and real-time systems**
+- **distributed backend platforms**
+- **high-assurance and safety-oriented architectures**
 
-+ Electronic Warfare (EW/REB)       + Radar Systems
-+ Flight Control (DO-178C)          + FPGA/DSP co-design
-+ Legacy System Modernization       + Embedded Linux
-
- ---
- 
-<br>
-
-## 🕹️ Retro Mobile Games (Java ME, 2000s)
-Early-career projects for Nokia/Siemens feature phones
-
-<br>
-
-| *Aliens Attack*                                                                 |  *B-52*                                                                           |*Balls*                                                                                                         |   *Armored Punch*                                                                   |
-|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-|&nbsp;&nbsp; ![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg) &nbsp;&nbsp;  |&nbsp;&nbsp; ![B52](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.jpg) &nbsp;&nbsp; |&nbsp;&nbsp; ![Baalls](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.jpg) &nbsp;&nbsp; | &nbsp;&nbsp; ![ap](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/armored.jpg) &nbsp;&nbsp; |
-|&nbsp;&nbsp; ![AA1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.gif) &nbsp;&nbsp; |&nbsp;&nbsp; ![B521](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.gif) &nbsp;&nbsp; |&nbsp;&nbsp; ![Balls1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.gif) &nbsp;&nbsp; | &nbsp;&nbsp; ![ap1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/tank.gif) &nbsp;&nbsp; |
-
-
-<br>
-
-
-| *Ghosts Dungeons*                                                                         |        *F16*                                                                       | *Vegas games*                                                                 |  *SnellBall*                                                                           |
-|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
-| &nbsp;&nbsp; ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg) &nbsp;&nbsp; | &nbsp;&nbsp; ![f16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg) &nbsp;&nbsp; |&nbsp;&nbsp;![vg](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg) &nbsp;&nbsp;  |&nbsp;&nbsp; ![vg](https://github.com/SSobol77/SnellBall/blob/main/logo.png) &nbsp;&nbsp; |
-| &nbsp;&nbsp; ![Ghosts1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.gif) &nbsp;&nbsp; | &nbsp;&nbsp; ![f161](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.gif) &nbsp;&nbsp; |&nbsp;&nbsp; ![vg1](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.gif)&nbsp;&nbsp; |&nbsp;&nbsp; ![vg](https://github.com/SSobol77/SnellBall/blob/main/snellball.gif) &nbsp;&nbsp; |
-
-<br>
+My work spans low-level engineering, avionics-oriented software, enterprise AI systems, developer tooling, and simulation-driven platforms. I focus on product-grade architecture, runtime boundaries, reliability, and long-term technical ownership.
 
 ---
 
-<br>
+## Core expertise
 
-### 📬 Contact
+| AI / Platform Engineering | Systems & Embedded Development | Platform / DevOps / Governance |
+|---|---|---|
+| Enterprise AI frameworks | C / C++ / Rust / Java / Python | Kubernetes / Docker / Terraform |
+| Classical ML and applied AI systems | Operating systems and embedded software | CI/CD and release engineering |
+| Edge and integrated AI architectures | Real-time and safety-oriented software | Observability / tracing / Prometheus |
+| AI product architecture | Distributed backend systems | SBOM / supply chain / governance |
 
-**Siergej Sobolewski**
+---
 
-[![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)
+## Domain focus
 
+- Operating systems and kernel-oriented architecture
+- Embedded and real-time software
+- Avionics and safety-oriented engineering
+- Drone and robotics platforms
+- Enterprise AI systems
+- Simulation-driven engineering
+- Legacy system modernization
+- High-assurance architecture
+
+---
+
+## Featured projects
+
+### GuardBSD
+Author of **GuardBSD**, a multi-microkernel operating system written in Rust, designed around security, isolation, and system integrity.
+
+**Focus areas:** operating systems, kernel architecture, Rust, microkernel design, system isolation  
+**Website:** [guardbsd.org](https://www.guardbsd.org)
+
+---
+
+### AeroNerve 2.0
+Enterprise drone command-and-control platform combining GPS-free navigation, real-time control, simulation, observability, and high-assurance architecture.
+
+**Focus areas:** drone operations, command core, simulation, safety architecture, governed deployment  
+**Website:** [aeronerve.co](https://aeronerve.co)
+
+---
+
+### AstraDesk
+Enterprise AI framework for multi-agent and business-oriented AI workflows.
+
+**Focus areas:** enterprise AI, orchestration, framework design, applied AI platforms  
+**Website:** [astradesk.dev](https://astradesk.dev)
+
+---
+
+### Ecli
+Modern terminal IDE focused on developer productivity, extensibility, and AI-ready workflows.
+
+**Focus areas:** terminal tooling, editor architecture, developer experience  
+**Website:** [ecli.io](https://ecli.io)
+
+---
+
+### Moops for DevOps
+DevOps-oriented platform/tooling work around operational workflows and engineering automation.
+
+**Focus areas:** DevOps workflows, automation, operational tooling  
+**Repository / platform:** [Moops for DevOps](https://gitlab.com/ssobo77/moops/)
+
+---
+
+## Selected technical profile
+
+- **Languages:** Rust, Java, Python, C, C++, SQL
+- **Systems:** operating systems, embedded software, distributed platforms
+- **AI:** applied AI systems, enterprise AI frameworks, AI integration architecture
+- **Infrastructure:** Docker, Kubernetes, Terraform, CI/CD
+- **Observability:** Prometheus, tracing, audit-oriented runtime visibility
+- **Engineering style:** reliability-first, architecture-first, product-grade implementation
+
+---
+
+## Retro mobile games portfolio
+
+Early-career Java ME projects created for classic mobile devices in the 2000s.
+
+| Project | Preview |
+|---|---|
+| **Aliens Attack** | ![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg) |
+| **B-52** | ![B52](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.jpg) |
+| **Balls** | ![Balls](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.jpg) |
+| **Armored Punch** | ![Armored Punch](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/armored.jpg) |
+| **Ghosts Dungeons** | ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg) |
+| **F16** | ![F16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg) |
+| **Vegas Games** | ![Vegas](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg) |
+| **SnellBall** | ![SnellBall](https://github.com/SSobol77/SnellBall/blob/main/logo.png) |
+
+More retro work: [Mobile-Games-Java](https://github.com/SSobol77/Mobile-Games-Java)
+
+---
+
+## Current interests
+
+- High-assurance software architecture
+- AI systems with strong runtime boundaries
+- Operating systems and microkernel design
+- Drone, robotics, and autonomous-system infrastructure
+- Enterprise AI product engineering
+- Simulation as a validation and engineering tool
+
+---
+
+## Open to
+
+- Strategic engineering collaborations
+- System and platform architecture work
+- AI / embedded / OS-level technical discussions
+- Product and infrastructure modernization initiatives
+- High-integrity software and mission-critical platform development
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=gmail)](mailto:s.sobolewski@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)
-
-[![Website](https://img.shields.io/badge/Website-Cartesian_School-green?logo=internet-explorer)](https://cartesianschool.com)
-
-[![Website](https://img.shields.io/badge/Website-AeroNerve-blue?logo=internet-explorer)](https://aeronerve.co)
-
-[![Website](https://img.shields.io/badge/Website-Ecli-purple?logo=internet-explorer)](https://ecli.io)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siergej--sobolewski--25a16319a-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siergej%20Sobolewski-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
 [![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
-
-<br>
-
-### 📂 Open for:
-
-<br>
-
-• AI/ML research collaborations
-
-• Legacy system modernization
-
-• Avionics/radar tech discussions
-
-*"Still debugging the world's complexity – now with neural networks instead of oscilloscopes."*
-
-<br>
+[![GuardBSD](https://img.shields.io/badge/Website-GuardBSD-1f6feb)](https://www.guardbsd.org)
+[![AeroNerve](https://img.shields.io/badge/Website-AeroNerve-0A66C2)](https://aeronerve.co)
+[![AstraDesk](https://img.shields.io/badge/Website-AstraDesk-5b3df5)](https://astradesk.dev)
+[![Ecli](https://img.shields.io/badge/Website-Ecli-7A3FF2)](https://ecli.io)
+[![Cartesian School](https://img.shields.io/badge/Website-Cartesian%20School-green)](https://cartesianschool.com)
 
 ---
 
-<br>
-
-### 🔥 Featured Projects
-
-<br>
-
-![aeronervecc01](https://github.com/user-attachments/assets/bc448d35-4ea3-433c-bf8d-6f2aba2b0717)  &nbsp; [AeroNerve Command Core](https://gitlab.com/ssobo77/aeronerve-cc/-/wikis/Aeronerve-) &nbsp; &nbsp; &nbsp; ![moops_m](https://github.com/user-attachments/assets/0975764e-0bc4-43ea-abc3-4069c0be82d3)  &nbsp; [Moops for DevOps](https://gitlab.com/ssobo77/moops/) 
-
-<br>
-
----
-
-<br>
+> *I build systems, not just code.*
