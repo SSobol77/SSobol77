@@ -90,25 +90,6 @@ Modern terminal IDE focused on developer productivity, extensibility, and AI-rea
 
 ---
 
-## Retro mobile games portfolio
-
-Early-career Java ME projects created for classic mobile devices in the 2000s.
-
-| Project | Preview |
-|---|---|
-| **Aliens Attack** | ![AA](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/aa.jpg) |
-| **B-52** | ![B52](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/b52.jpg) |
-| **Balls** | ![Balls](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/balls.jpg) |
-| **Armored Punch** | ![Armored Punch](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/armored.jpg) |
-| **Ghosts Dungeons** | ![Ghosts](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/ghosts.jpg) |
-| **F16** | ![F16](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/f16.jpg) |
-| **Vegas Games** | ![Vegas](https://github.com/SSobol77/Mobile-Games-Java/blob/master/images/vegas.jpg) |
-| **SnellBall** | ![SnellBall](https://github.com/SSobol77/SnellBall/blob/main/logo.png) |
-
-More retro work: [Mobile-Games-Java](https://github.com/SSobol77/Mobile-Games-Java)
-
----
-
 ## Current interests
 
 - High-assurance software architecture
