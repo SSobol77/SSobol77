@@ -79,14 +79,6 @@ Modern terminal IDE focused on developer productivity, extensibility, and AI-rea
 
 ---
 
-### Moops for DevOps
-DevOps-oriented platform/tooling work around operational workflows and engineering automation.
-
-**Focus areas:** DevOps workflows, automation, operational tooling  
-**Repository / platform:** [Moops for DevOps](https://gitlab.com/ssobo77/moops/)
-
----
-
 ## Selected technical profile
 
 - **Languages:** Rust, Java, Python, C, C++, SQL
