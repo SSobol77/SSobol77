@@ -113,16 +113,14 @@ Modern terminal IDE focused on developer productivity, extensibility, and AI-rea
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=gmail)](mailto:s.sobolewski@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siergej%20Sobolewski-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski-25a16319a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siergej%20Sobolewski-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski)
 [![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
 [![GuardBSD](https://img.shields.io/badge/Website-GuardBSD-1f6feb)](https://www.guardbsd.org)
 [![AeroNerve](https://img.shields.io/badge/Website-AeroNerve-0A66C2)](https://aeronerve.co)
 [![AstraDesk](https://img.shields.io/badge/Website-AstraDesk-5b3df5)](https://astradesk.dev)
 [![Ecli](https://img.shields.io/badge/Website-Ecli-7A3FF2)](https://ecli.io)
-[![Cartesian School](https://img.shields.io/badge/Website-Cartesian%20School-green)](https://cartesianschool.com)
 
 ---
 
-> *I build systems, not just code.*
+> *I build systems, not just code.)*
