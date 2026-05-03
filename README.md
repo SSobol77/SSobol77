@@ -115,7 +115,7 @@ Modern terminal IDE focused on developer productivity, extensibility, and AI-rea
 
 [![Codewars](https://img.shields.io/badge/Codewars-Siergej-red?logo=codewars)](https://www.codewars.com/users/Siergej)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siergej%20Sobolewski-blue?logo=linkedin)](https://www.linkedin.com/in/siergej-sobolewski)
-[![AeroNerve](https://img.shields.io/badge/Website-AeroNerve-0A66C2)](https://aeronerve.co)
+[![AeroNerve](https://img.shields.io/badge/Website-AeroNerve-0d2b45)](https://aeronerve.co)
 [![GuardBSD](https://img.shields.io/badge/Website-GuardBSD-1f6feb)](https://www.guardbsd.org)
 [![AstraDesk](https://img.shields.io/badge/Website-AstraDesk-0d2b45)](https://astradesk.dev)
 [![Ecli](https://img.shields.io/badge/Website-Ecli-7A3FF2)](https://ecli.io)
